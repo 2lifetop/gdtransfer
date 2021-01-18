@@ -33,7 +33,7 @@
 安装DD系统
 
 ```javascript
-wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && bash InstallNET.sh --ip-addr 10.170.0.20 --ip-mask 255.255.255.0 --ip-gate 10.170.0.1 -dd 'https://api.moeclub.org/GoogleDrive/1C9Y0Iu1pGX4-blb_3G49jOqv13Zeka6-'
+wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && bash InstallNET.sh --ip-addr 10.170.0.20 --ip-mask 255.255.255.0 --ip-gate 10.170.0.1 -dd 'https://goindex.f1car.workers.dev/temple/win10-ltsc-x64-cn/win10-ltsc-x64-cn.vhd.gz'
 ```
     --ip-addr X.X.X.X  （10.170.0.20）      #更换成服务器内部ip (记住是内部ip不是你的外网ip)
     --ip-gate X.X.X.1  （10.170.0.1）   #把X.X.X.X更换成X.X.X.1   (如果服务器内部ip为10.0.170.18需要更换成10.170.0.1)
