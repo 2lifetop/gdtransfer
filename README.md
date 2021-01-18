@@ -31,7 +31,7 @@
 
 > 第二步：
 安装DD系统
-
+win10ltsc
 ```javascript
 wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh' && bash InstallNET.sh --ip-addr 10.170.0.20 --ip-mask 255.255.255.0 --ip-gate 10.170.0.1 -dd 'https://goindex.f1car.workers.dev/temple/win10-ltsc-x64-cn/win10-ltsc-x64-cn.vhd.gz'
 ```
@@ -39,7 +39,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/Li
     --ip-gate X.X.X.1  （10.170.0.1）   #把X.X.X.X更换成X.X.X.1   (如果服务器内部ip为10.0.170.18需要更换成10.170.0.1)
 
  *windows镜像精简版文件地址登录用户名及密码windows镜像精简版文件地址登录用户名及密码*
- 
+ 账户Administrator密码nat.ee
 
     ** 可以替换上面的地址看你喜欢装那个了**
 	#DD Windows7 64位 旗舰精简版 [账户Administrator密码www.nat.ee]
@@ -51,7 +51,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://moeclub.org/attachment/Li
 	
 #### Tips：
 
-- 装机至少20分钟，中间会失联，不要着急耐心等待：）
+- 装机大约20分钟，中间会失联，不要着急耐心等待：）配置越高速度越快，还要看下载速度。
 - 用WINDOWS 自带的远程桌面链接，MAC系统用 MICORSOFT REMOTE DESKTOP BETA
 - 强调下远程桌面最好一定要用梯子连，不然卡的厉害，不挂梯子，不要觉得机器卡，其实是你网络卡（如果你有国内大云厂的机子，那是最好连起来好流畅！）
 - 装完如果发现上不了网，请确认网络设置里面DNS有没有添加，没有的话，打上8.8.8.8/8.8.4.4`
